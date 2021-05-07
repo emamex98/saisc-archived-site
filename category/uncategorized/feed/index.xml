@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; SAISC 2019</title>
+	<atom:link href="/saisc-archived-site/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/saisc-archived-site/</link>
+	<description>Sociedad de Alumnos de ISC - TEC Campus GDL</description>
+	<lastBuildDate>Mon, 03 Jun 2019 21:35:22 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.5</generator>
+	<item>
+		<title>Empleos</title>
+		<link>/saisc-archived-site/category/empleos/</link>
+		
+		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
+		<pubDate>Mon, 03 Jun 2019 21:35:22 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/saisc-archived-site/?p=720</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
