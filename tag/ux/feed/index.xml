@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>UX &#8211; SAISC 2019</title>
+	<atom:link href="/tag/ux/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Sociedad de Alumnos de ISC - TEC Campus GDL</description>
+	<lastBuildDate>Mon, 03 Jun 2019 21:32:55 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.5</generator>
+	<item>
+		<title>UI / UX en Mirak</title>
+		<link>/job_mirak1/</link>
+		
+		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
+		<pubDate>Mon, 03 Jun 2019 21:15:27 +0000</pubDate>
+				<category><![CDATA[Empleos]]></category>
+		<category><![CDATA[Front-end]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">/?p=706</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img class="alignright size-large wp-image-709" src="/wp-content/uploads/2019/06/WhatsApp-Image-2019-05-23-at-3.24.31-PM-3-768x1024.jpeg" alt="" srcset="/wp-content/uploads/2019/06/WhatsApp-Image-2019-05-23-at-3.24.31-PM-3-768x1024.jpeg 768w, /wp-content/uploads/2019/06/WhatsApp-Image-2019-05-23-at-3.24.31-PM-3-225x300.jpeg 225w, /wp-content/uploads/2019/06/WhatsApp-Image-2019-05-23-at-3.24.31-PM-3-770x1027.jpeg 770w, /wp-content/uploads/2019/06/WhatsApp-Image-2019-05-23-at-3.24.31-PM-3.jpeg 864w" sizes="(max-width: 768px) 100vw, 768px" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

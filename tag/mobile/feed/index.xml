@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mobile &#8211; SAISC 2019</title>
+	<atom:link href="/tag/mobile/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Sociedad de Alumnos de ISC - TEC Campus GDL</description>
+	<lastBuildDate>Tue, 08 Oct 2019 17:32:23 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.5</generator>
+	<item>
+		<title>iOS Developer en Bosch</title>
+		<link>/ios-developer-en-bosch-2/</link>
+		
+		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
+		<pubDate>Fri, 04 Oct 2019 18:00:45 +0000</pubDate>
+				<category><![CDATA[Empleos]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<guid isPermaLink="false">/?p=762</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img class="size-full wp-image-763 alignleft" src="/wp-content/uploads/2019/10/Vacante_Desarrollador_iOS_Becario.png" alt="" srcset="/wp-content/uploads/2019/10/Vacante_Desarrollador_iOS_Becario.png 789w, /wp-content/uploads/2019/10/Vacante_Desarrollador_iOS_Becario-281x300.png 281w, /wp-content/uploads/2019/10/Vacante_Desarrollador_iOS_Becario-768x819.png 768w, /wp-content/uploads/2019/10/Vacante_Desarrollador_iOS_Becario-770x821.png 770w" sizes="(max-width: 789px) 100vw, 789px" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>iOS Developer en Bosch</title>
+		<link>/ios-developer-en-bosch/</link>
+		
+		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
+		<pubDate>Fri, 26 Jul 2019 18:00:32 +0000</pubDate>
+				<category><![CDATA[Empleos]]></category>
+		<category><![CDATA[Full-stack]]></category>
+		<category><![CDATA[Internship]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<guid isPermaLink="false">/?p=744</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img class="alignright size-large wp-image-730" src="/wp-content/uploads/2019/07/WhatsApp-Image-2019-07-24-at-11.38.02-AM-856x1024.jpeg" alt="" srcset="/wp-content/uploads/2019/07/WhatsApp-Image-2019-07-24-at-11.38.02-AM.jpeg 856w, /wp-content/uploads/2019/07/WhatsApp-Image-2019-07-24-at-11.38.02-AM-251x300.jpeg 251w, /wp-content/uploads/2019/07/WhatsApp-Image-2019-07-24-at-11.38.02-AM-768x919.jpeg 768w, /wp-content/uploads/2019/07/WhatsApp-Image-2019-07-24-at-11.38.02-AM-770x921.jpeg 770w" sizes="(max-width: 856px) 100vw, 856px" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>iOS Developer en Bosch (HCM)</title>
+		<link>/ios-developer-en-bosch-hcm/</link>
+		
+		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
+		<pubDate>Mon, 22 Jul 2019 18:00:00 +0000</pubDate>
+				<category><![CDATA[Empleos]]></category>
+		<category><![CDATA[Full-stack]]></category>
+		<category><![CDATA[Internship]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<guid isPermaLink="false">/?p=740</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img class="alignright size-large wp-image-731" src="/wp-content/uploads/2019/07/WhatsApp-Image-2019-07-16-at-2.31.19-PM-4-1024x576.jpeg" alt="" srcset="/wp-content/uploads/2019/07/WhatsApp-Image-2019-07-16-at-2.31.19-PM-4-1024x576.jpeg 1024w, /wp-content/uploads/2019/07/WhatsApp-Image-2019-07-16-at-2.31.19-PM-4-300x169.jpeg 300w, /wp-content/uploads/2019/07/WhatsApp-Image-2019-07-16-at-2.31.19-PM-4-768x432.jpeg 768w, /wp-content/uploads/2019/07/WhatsApp-Image-2019-07-16-at-2.31.19-PM-4-770x433.jpeg 770w, /wp-content/uploads/2019/07/WhatsApp-Image-2019-07-16-at-2.31.19-PM-4-1100x619.jpeg 1100w, /wp-content/uploads/2019/07/WhatsApp-Image-2019-07-16-at-2.31.19-PM-4.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

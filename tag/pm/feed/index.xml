@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PM &#8211; SAISC 2019</title>
+	<atom:link href="/tag/pm/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Sociedad de Alumnos de ISC - TEC Campus GDL</description>
+	<lastBuildDate>Sat, 09 May 2020 06:55:19 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.5</generator>
+	<item>
+		<title>Onboarding Engagement Intern en Brightcove</title>
+		<link>/onboarding-engagement-intern-en-brightcove/</link>
+		
+		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2020 18:32:33 +0000</pubDate>
+				<category><![CDATA[Empleos]]></category>
+		<category><![CDATA[PM]]></category>
+		<category><![CDATA[Support]]></category>
+		<category><![CDATA[Validación]]></category>
+		<guid isPermaLink="false">/?p=788</guid>
+
+					<description><![CDATA[Hola a todos! De acaba de abrir una posicion dentro del equipo de Customer Success en Brightcove! La posicion se llama Onboarding Engagement Manager, una mezcla muy bonita entre Project Management, Tech Support y Customer Experience. Si quieren mas info contacten a Fer Lopez o pueden aplicar directamente en este ...]]></description>
+										<content:encoded><![CDATA[<p><img class="alignright size-full wp-image-789" src="/wp-content/uploads/2020/05/bc-logo-social-thumbnail.jpg" alt="" srcset="/wp-content/uploads/2020/05/bc-logo-social-thumbnail.jpg 924w, /wp-content/uploads/2020/05/bc-logo-social-thumbnail-300x142.jpg 300w, /wp-content/uploads/2020/05/bc-logo-social-thumbnail-768x364.jpg 768w, /wp-content/uploads/2020/05/bc-logo-social-thumbnail-770x365.jpg 770w" sizes="(max-width: 924px) 100vw, 924px" /></p>
+<p>Hola a todos! De acaba de abrir una posicion dentro del equipo de Customer Success en Brightcove! La posicion se llama Onboarding Engagement Manager, una mezcla muy bonita entre Project Management, Tech Support y Customer Experience. Si quieren mas info contacten a Fer Lopez o pueden aplicar directamente en este link <a class="c-link" href="https://slack-redir.net/link?url=https%3A%2F%2Fgrnh.se%2Fbea71ed21" target="_blank" rel="noopener noreferrer" data-sk="tooltip_parent" aria-describedby="sk-tooltip-58e03dec-d48b-44b4-bac9-446e48d87b35">https://grnh.se/bea71ed21</a></p>
+<div class="c-message_kit__attachments">
+<div class="c-message_attachment">
+<div class="c-message_attachment__border"></div>
+<div class="c-message_attachment__body"></div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
