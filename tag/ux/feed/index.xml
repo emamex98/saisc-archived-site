@@ -9,8 +9,8 @@
 
 <channel>
 	<title>UX &#8211; SAISC 2019</title>
-	<atom:link href="/tag/ux/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/saisc-archived-site/tag/ux/feed/" rel="self" type="application/rss+xml" />
+	<link>/saisc-archived-site/</link>
 	<description>Sociedad de Alumnos de ISC - TEC Campus GDL</description>
 	<lastBuildDate>Mon, 03 Jun 2019 21:32:55 +0000</lastBuildDate>
 	<language>es-MX</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.4.5</generator>
 	<item>
 		<title>UI / UX en Mirak</title>
-		<link>/job_mirak1/</link>
+		<link>/saisc-archived-site/job_mirak1/</link>
 		
 		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
 		<pubDate>Mon, 03 Jun 2019 21:15:27 +0000</pubDate>
@@ -29,10 +29,10 @@
 		<category><![CDATA[Front-end]]></category>
 		<category><![CDATA[UI]]></category>
 		<category><![CDATA[UX]]></category>
-		<guid isPermaLink="false">/?p=706</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=706</guid>
 
 					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[<p><img class="alignright size-large wp-image-709" src="/wp-content/uploads/2019/06/WhatsApp-Image-2019-05-23-at-3.24.31-PM-3-768x1024.jpeg" alt="" srcset="/wp-content/uploads/2019/06/WhatsApp-Image-2019-05-23-at-3.24.31-PM-3-768x1024.jpeg 768w, /wp-content/uploads/2019/06/WhatsApp-Image-2019-05-23-at-3.24.31-PM-3-225x300.jpeg 225w, /wp-content/uploads/2019/06/WhatsApp-Image-2019-05-23-at-3.24.31-PM-3-770x1027.jpeg 770w, /wp-content/uploads/2019/06/WhatsApp-Image-2019-05-23-at-3.24.31-PM-3.jpeg 864w" sizes="(max-width: 768px) 100vw, 768px" /></p>
+										<content:encoded><![CDATA[<p><img class="alignright size-large wp-image-709" src="/saisc-archived-site/wp-content/uploads/2019/06/WhatsApp-Image-2019-05-23-at-3.24.31-PM-3-768x1024.jpeg" alt="" srcset="/saisc-archived-site/wp-content/uploads/2019/06/WhatsApp-Image-2019-05-23-at-3.24.31-PM-3-768x1024.jpeg 768w, /saisc-archived-site/wp-content/uploads/2019/06/WhatsApp-Image-2019-05-23-at-3.24.31-PM-3-225x300.jpeg 225w, /saisc-archived-site/wp-content/uploads/2019/06/WhatsApp-Image-2019-05-23-at-3.24.31-PM-3-770x1027.jpeg 770w, /saisc-archived-site/wp-content/uploads/2019/06/WhatsApp-Image-2019-05-23-at-3.24.31-PM-3.jpeg 864w" sizes="(max-width: 768px) 100vw, 768px" /></p>
 ]]></content:encoded>
 					
 		

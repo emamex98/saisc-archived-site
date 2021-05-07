@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Noticias &#8211; SAISC 2019</title>
-	<atom:link href="/category/news/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/saisc-archived-site/category/news/feed/" rel="self" type="application/rss+xml" />
+	<link>/saisc-archived-site/</link>
 	<description>Sociedad de Alumnos de ISC - TEC Campus GDL</description>
 	<lastBuildDate>Wed, 02 Oct 2019 04:12:40 +0000</lastBuildDate>
 	<language>es-MX</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.4.5</generator>
 	<item>
 		<title>Tu bienestar integral es prioridad para la SAISC</title>
-		<link>/t-queremos-1/</link>
+		<link>/saisc-archived-site/t-queremos-1/</link>
 		
 		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
 		<pubDate>Tue, 23 Apr 2019 16:00:06 +0000</pubDate>
 				<category><![CDATA[Noticias]]></category>
-		<guid isPermaLink="false">/?p=687</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=687</guid>
 
 					<description><![CDATA[Más que garantizar una experiencia inolvidable al formar parte de la comunidad ISC, la SAISC trabaja también en cuidar el bienestar integral de todas las personas que forman parte de la comunidad. Como parte del plan para velar por la salud mental y emocional de alumnos y colaboradores de ISC, ...]]></description>
 										<content:encoded><![CDATA[<p>Más que garantizar una experiencia inolvidable al formar parte de la comunidad ISC, la SAISC trabaja también en cuidar el bienestar integral de todas las personas que forman parte de la comunidad.</p>
@@ -44,12 +44,12 @@
 			</item>
 		<item>
 		<title>Destaca el talento de ISC en Ready? Set? CODE!</title>
-		<link>/rsc-news/</link>
+		<link>/saisc-archived-site/rsc-news/</link>
 		
 		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
 		<pubDate>Sat, 13 Apr 2019 00:33:06 +0000</pubDate>
 				<category><![CDATA[Noticias]]></category>
-		<guid isPermaLink="false">/?p=642</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=642</guid>
 
 					<description><![CDATA[Creativos, apasionados e ingeniosos son palabras que se quedan cortas para describir el talento demostrado por los estudiantes que participaron en el evento de doble modalidad Ready? Set? CODE! En este, la mayoría de los estudiantes concursaron en la competencia de programación competitiva, que consistió de ocho problemas de alto ...]]></description>
 										<content:encoded><![CDATA[<p>Creativos, apasionados e ingeniosos son palabras que se quedan cortas para describir el talento demostrado por los estudiantes que participaron en el evento de doble modalidad <em>Ready? Set? CODE!</em></p>
@@ -71,7 +71,7 @@
 		<pubDate>Wed, 27 Mar 2019 18:41:50 +0000</pubDate>
 				<category><![CDATA[Avisos]]></category>
 		<category><![CDATA[Noticias]]></category>
-		<guid isPermaLink="false">/?p=628</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=628</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -81,12 +81,12 @@
 			</item>
 		<item>
 		<title>Hour of Code: Capacidades para la actualidad</title>
-		<link>/hour-of-code-capacidades-para-la-actualidad/</link>
+		<link>/saisc-archived-site/hour-of-code-capacidades-para-la-actualidad/</link>
 		
 		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
 		<pubDate>Wed, 20 Mar 2019 21:34:24 +0000</pubDate>
 				<category><![CDATA[Noticias]]></category>
-		<guid isPermaLink="false">/?p=620</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=620</guid>
 
 					<description><![CDATA[Mas de 15 alumnos de diversas preparatorias formaron parte de la semana de Hour of Code™ organizada por la SAISC, en donde estudiantes actuales de ISC impartieron talleres de programación básica a futuros ingenieros. Este taller permitió a los asistentes conocer los conceptos y principios más básicos de la programación, lo ...]]></description>
 										<content:encoded><![CDATA[<p>Mas de 15 alumnos de diversas preparatorias formaron parte de la semana de <strong>Hour of Code<img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong> organizada por la SAISC, en donde estudiantes actuales de ISC impartieron talleres de programación básica a futuros ingenieros. Este taller permitió a los asistentes conocer los conceptos y principios más básicos de la programación, lo que les dará una ventaja una vez que comiencen su carrera en computación.</p>
@@ -109,13 +109,13 @@
 			</item>
 		<item>
 		<title>¡Participa en nuestra semana #HourOfCode!</title>
-		<link>/hourofcode/</link>
+		<link>/saisc-archived-site/hourofcode/</link>
 		
 		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
 		<pubDate>Fri, 22 Feb 2019 18:09:43 +0000</pubDate>
 				<category><![CDATA[Avisos]]></category>
 		<category><![CDATA[Noticias]]></category>
-		<guid isPermaLink="false">/?p=616</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=616</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -125,13 +125,13 @@
 			</item>
 		<item>
 		<title>Cisco Student Day: Innovación y compromiso social</title>
-		<link>/cisco-student-day-nota/</link>
-					<comments>/cisco-student-day-nota/#respond</comments>
+		<link>/saisc-archived-site/cisco-student-day-nota/</link>
+					<comments>/saisc-archived-site/cisco-student-day-nota/#respond</comments>
 		
 		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
 		<pubDate>Mon, 18 Feb 2019 17:45:05 +0000</pubDate>
 				<category><![CDATA[Noticias]]></category>
-		<guid isPermaLink="false">/?p=601</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=601</guid>
 
 					<description><![CDATA[Más de 1500 alumnos de toda la república se reunieron en las instalaciones del Tecnológico de Monterrey Campus Guadalajara para charlar sobre innovación, tendencias en la tecnología y el compromiso social que existe por parte de los futuros ingenieros para trabajar por un mejor México. Todo esto sucedió dentro del ...]]></description>
 										<content:encoded><![CDATA[<p>Más de <strong>1500 alumnos de toda la república</strong> se reunieron en las instalaciones del Tecnológico de Monterrey Campus Guadalajara para charlar sobre innovación, tendencias en la tecnología y el compromiso social que existe por parte de los futuros ingenieros para trabajar por un mejor México.</p>
@@ -141,20 +141,20 @@
 <p>Esta oportunidad única ofreció a todos los participantes, especialmente a aquellos allegados a la SAISC la posibilidad de conocer más sobre las tendencias actuales y realizar <em>networking</em> exclusivo con altos ejecutivos de Cisco.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/cisco-student-day-nota/feed/</wfw:commentRss>
+					<wfw:commentRss>/saisc-archived-site/cisco-student-day-nota/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Inauguran el semestre con 100 pizzas</title>
-		<link>/gettogether/</link>
-					<comments>/gettogether/#respond</comments>
+		<link>/saisc-archived-site/gettogether/</link>
+					<comments>/saisc-archived-site/gettogether/#respond</comments>
 		
 		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
 		<pubDate>Tue, 12 Feb 2019 16:00:47 +0000</pubDate>
 				<category><![CDATA[Noticias]]></category>
-		<guid isPermaLink="false">/?p=565</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=565</guid>
 
 					<description><![CDATA[¿Qué pasa si combinas 100 pizzas, 60 litros de refresco, bubble soccer y retas de gladiador? ¡Los ISC y sus amigos pasarán una tarde increíble! Tal como se prometió durante la campaña electoral, la SAISC arrancó el semestre con una comida de integración que recibió a más de 150 personas, ...]]></description>
 										<content:encoded><![CDATA[<p>¿Qué pasa si combinas 100 pizzas, 60 litros de refresco, bubble soccer y retas de gladiador? ¡Los ISC y sus amigos pasarán una tarde increíble!</p>
@@ -163,75 +163,75 @@
 <p>Sin duda, tanto el alumnado como el profesorado disfrutaron de una agradable tarde, lo cual motiva a la administración actual a seguir organizando esta clase de eventos.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/gettogether/feed/</wfw:commentRss>
+					<wfw:commentRss>/saisc-archived-site/gettogether/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Asiste al Get Together ISC</title>
-		<link>/evento/comida-de-integracion/</link>
-					<comments>/evento/comida-de-integracion/#respond</comments>
+		<link>/saisc-archived-site/evento/comida-de-integracion/</link>
+					<comments>/saisc-archived-site/evento/comida-de-integracion/#respond</comments>
 		
 		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
 		<pubDate>Mon, 28 Jan 2019 18:41:38 +0000</pubDate>
 				<category><![CDATA[Avisos]]></category>
 		<category><![CDATA[Noticias]]></category>
-		<guid isPermaLink="false">/?p=554</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=554</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/evento/comida-de-integracion/feed/</wfw:commentRss>
+					<wfw:commentRss>/saisc-archived-site/evento/comida-de-integracion/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Toma protesta el poder ejecutivo de la SAISC</title>
-		<link>/toma-protesta-saisc/</link>
-					<comments>/toma-protesta-saisc/#respond</comments>
+		<link>/saisc-archived-site/toma-protesta-saisc/</link>
+					<comments>/saisc-archived-site/toma-protesta-saisc/#respond</comments>
 		
 		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
 		<pubDate>Thu, 24 Jan 2019 19:20:10 +0000</pubDate>
 				<category><![CDATA[Noticias]]></category>
-		<guid isPermaLink="false">/?p=541</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=541</guid>
 
 					<description><![CDATA[¡Ya es oficial!  Con la mano en alto, Georgina González, Sebastián Cedeño y Emanuel Estrada, quienes forman el poder ejecutivo de la SAISC 2019, protestaron cumplir con las responsabilidades de sus respectivos cargos y ser una fiel representación de sus compañeros ante el Dr. Mario Adrián Flores y otras autoridades del ...]]></description>
 										<content:encoded><![CDATA[<p><em>¡Ya es oficial! </em></p>
-<p>Con la mano en alto, Georgina González, Sebastián Cedeño y Emanuel Estrada, quienes forman el <a href="/informacion/equipo/">poder ejecutivo de la SAISC</a> 2019, protestaron cumplir con las responsabilidades de sus respectivos cargos y ser una fiel representación de sus compañeros ante el Dr. Mario Adrián Flores y otras autoridades del campus el pasado 22 de enero.</p>
+<p>Con la mano en alto, Georgina González, Sebastián Cedeño y Emanuel Estrada, quienes forman el <a href="/saisc-archived-site/informacion/equipo/">poder ejecutivo de la SAISC</a> 2019, protestaron cumplir con las responsabilidades de sus respectivos cargos y ser una fiel representación de sus compañeros ante el Dr. Mario Adrián Flores y otras autoridades del campus el pasado 22 de enero.</p>
 <p>Acompañados por la directora de carrera de ISC, la Mtra. Olga Garcia, los tres jóvenes que resultaron electos en noviembre, comienzan oficialmente su labor como líderes de la sociedad de alumnos en la administración 2019-2020.</p>
 <p>La ceremonia se caracterizó por su solemnidad y por el motivador discurso de Rodrigo Lopez-Cabello, presidente del Comité Ejecutivo de la Federación de Alumnos (FETEC), quién incitó a los líderes de cada sociedad de alumnos a trabajar juntos para apoyar el talento que existe dentro del campus.</p>
 <p>Finalmente, los alumnos, profesores e invitados tuvieron la oportunidad de convivir en brindis en los que celebraron el inicio de esta nueva administración.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/toma-protesta-saisc/feed/</wfw:commentRss>
+					<wfw:commentRss>/saisc-archived-site/toma-protesta-saisc/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>5 proyectos de servicio social que involucran tecnología</title>
-		<link>/servicio-social-tecnologia/</link>
-					<comments>/servicio-social-tecnologia/#respond</comments>
+		<link>/saisc-archived-site/servicio-social-tecnologia/</link>
+					<comments>/saisc-archived-site/servicio-social-tecnologia/#respond</comments>
 		
 		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
 		<pubDate>Tue, 22 Jan 2019 17:00:21 +0000</pubDate>
 				<category><![CDATA[Noticias]]></category>
 		<category><![CDATA[Servicios]]></category>
-		<guid isPermaLink="false">/?p=513</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=513</guid>
 
 					<description><![CDATA[¿Estás buscando opciones para realizar tu servicio social? ¿Te gustaría que estas actividades estuvieran relacionadas con ISC?  ¡Entonces esta guía es para ti! Como sabes, los alumnos del Tec de Monterrey debemos cumplir con 480 horas de servicio social para poder obtener nuestro título, y por eso, la SAISC recopilamos ...]]></description>
 										<content:encoded><![CDATA[<p><strong>¿Estás buscando opciones para realizar tu servicio social? ¿Te gustaría que estas actividades estuvieran relacionadas con ISC?  ¡Entonces esta guía es para ti!</strong></p>
 <p>Como sabes, los alumnos del Tec de Monterrey debemos cumplir con 480 horas de servicio social para poder obtener nuestro título, y por eso, la SAISC recopilamos una lista de las actividades que más podrían interesarte si lo que más de apasiona es la tecnología.</p>
-<h4><img class="alignright size-large wp-image-523" src="/wp-content/uploads/2019/01/meiquer-1024x698.jpg" alt="" srcset="/wp-content/uploads/2019/01/meiquer-1024x698.jpg 1024w, /wp-content/uploads/2019/01/meiquer-300x204.jpg 300w, /wp-content/uploads/2019/01/meiquer-768x523.jpg 768w, /wp-content/uploads/2019/01/meiquer-770x525.jpg 770w, /wp-content/uploads/2019/01/meiquer.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></h4>
+<h4><img class="alignright size-large wp-image-523" src="/saisc-archived-site/wp-content/uploads/2019/01/meiquer-1024x698.jpg" alt="" srcset="/saisc-archived-site/wp-content/uploads/2019/01/meiquer-1024x698.jpg 1024w, /saisc-archived-site/wp-content/uploads/2019/01/meiquer-300x204.jpg 300w, /saisc-archived-site/wp-content/uploads/2019/01/meiquer-768x523.jpg 768w, /saisc-archived-site/wp-content/uploads/2019/01/meiquer-770x525.jpg 770w, /saisc-archived-site/wp-content/uploads/2019/01/meiquer.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></h4>
 <h4>1. Estación Meiquer</h4>
 <p><strong>¿Qué es?</strong><br />
 Estación Meiquer es un proyecto que busca que los niños transformen su comunidad, jugando. Esto lo logran a través de actividades con tecnología y juegos.</p>
 <p><strong>Contacto:</strong><br />
 Cesar Espinosa<br />
 estacion.meiquer@gmail.com</p>
-<p><img class="alignright size-large wp-image-529" src="/wp-content/uploads/2019/01/incubadora-1-1024x637.jpg" alt="" srcset="/wp-content/uploads/2019/01/incubadora-1-1024x637.jpg 1024w, /wp-content/uploads/2019/01/incubadora-1-300x187.jpg 300w, /wp-content/uploads/2019/01/incubadora-1-768x478.jpg 768w, /wp-content/uploads/2019/01/incubadora-1-770x479.jpg 770w, /wp-content/uploads/2019/01/incubadora-1-1100x685.jpg 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p><img class="alignright size-large wp-image-529" src="/saisc-archived-site/wp-content/uploads/2019/01/incubadora-1-1024x637.jpg" alt="" srcset="/saisc-archived-site/wp-content/uploads/2019/01/incubadora-1-1024x637.jpg 1024w, /saisc-archived-site/wp-content/uploads/2019/01/incubadora-1-300x187.jpg 300w, /saisc-archived-site/wp-content/uploads/2019/01/incubadora-1-768x478.jpg 768w, /saisc-archived-site/wp-content/uploads/2019/01/incubadora-1-770x479.jpg 770w, /saisc-archived-site/wp-content/uploads/2019/01/incubadora-1-1100x685.jpg 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
 <h4>2. Incubadora Social Laureles</h4>
 <p><strong>¿Qué es?</strong><br />
 La Incubadora Social Laureles es un espacio del Tecnológico de Monterrey que busca contribuir al desarrollo comunitario por medio de talleres impartidos por alumnos, incluyendo clases de computación e inglés.</p>
@@ -239,7 +239,7 @@ La Incubadora Social Laureles es un espacio del Tecnológico de Monterrey que bu
 Felipe Curiel<br />
 felipe.curiel.o@tec.mx<br />
 (33) 1115 &#8211; 7903</p>
-<p><img class="alignright size-large wp-image-528" src="/wp-content/uploads/2019/01/prepanet-1-1024x683.jpg" alt="" srcset="/wp-content/uploads/2019/01/prepanet-1-1024x683.jpg 1024w, /wp-content/uploads/2019/01/prepanet-1-300x200.jpg 300w, /wp-content/uploads/2019/01/prepanet-1-768x512.jpg 768w, /wp-content/uploads/2019/01/prepanet-1-770x513.jpg 770w, /wp-content/uploads/2019/01/prepanet-1-1100x733.jpg 1100w, /wp-content/uploads/2019/01/prepanet-1.jpg 1650w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p><img class="alignright size-large wp-image-528" src="/saisc-archived-site/wp-content/uploads/2019/01/prepanet-1-1024x683.jpg" alt="" srcset="/saisc-archived-site/wp-content/uploads/2019/01/prepanet-1-1024x683.jpg 1024w, /saisc-archived-site/wp-content/uploads/2019/01/prepanet-1-300x200.jpg 300w, /saisc-archived-site/wp-content/uploads/2019/01/prepanet-1-768x512.jpg 768w, /saisc-archived-site/wp-content/uploads/2019/01/prepanet-1-770x513.jpg 770w, /saisc-archived-site/wp-content/uploads/2019/01/prepanet-1-1100x733.jpg 1100w, /saisc-archived-site/wp-content/uploads/2019/01/prepanet-1.jpg 1650w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
 <h4>3. Prep@Net</h4>
 <p><strong>¿Qué es?</strong><br />
 Prep@Net es la preparatoria social en línea diseñada por el Tecnológico de Monterrey para personas que no pueden completar sus estudios en un esquema de educación tradicional. Es un sistema flexible para los alumnos porque no necesitan asistir a un salón de clases y pueden estudiar desde una computadora en cualquier horario.</p>
@@ -247,14 +247,14 @@ Prep@Net es la preparatoria social en línea diseñada por el Tecnológico de Mo
 Xochitl Fregoso Gómez<br />
 xfregoso@tec.mx<br />
 3669 &#8211; 3000 Ext. 4382</p>
-<p><img class="alignright wp-image-521 size-full" src="/wp-content/uploads/2019/01/createmath-e1548175494529.jpg" alt="" width="960" height="768" srcset="/wp-content/uploads/2019/01/createmath-e1548175494529.jpg 960w, /wp-content/uploads/2019/01/createmath-e1548175494529-300x240.jpg 300w, /wp-content/uploads/2019/01/createmath-e1548175494529-768x614.jpg 768w, /wp-content/uploads/2019/01/createmath-e1548175494529-770x616.jpg 770w" sizes="(max-width: 960px) 100vw, 960px" /></p>
+<p><img class="alignright wp-image-521 size-full" src="/saisc-archived-site/wp-content/uploads/2019/01/createmath-e1548175494529.jpg" alt="" width="960" height="768" srcset="/saisc-archived-site/wp-content/uploads/2019/01/createmath-e1548175494529.jpg 960w, /saisc-archived-site/wp-content/uploads/2019/01/createmath-e1548175494529-300x240.jpg 300w, /saisc-archived-site/wp-content/uploads/2019/01/createmath-e1548175494529-768x614.jpg 768w, /saisc-archived-site/wp-content/uploads/2019/01/createmath-e1548175494529-770x616.jpg 770w" sizes="(max-width: 960px) 100vw, 960px" /></p>
 <h4>4. CreateMath</h4>
 <p><strong>¿Qué es?</strong><br />
 CreateMath es un grupo de jóvenes estudiantes con el interés de compartir sus conocimientos de matemáticas a niños y adolescentes de educación básica.</p>
 <p><strong>Contacto:</strong><br />
 Diego de Dios<br />
 (33) 3128 &#8211; 3587</p>
-<p><img class="alignright size-large wp-image-519" src="/wp-content/uploads/2019/01/nunutzikie-1024x683.jpg" alt="" srcset="/wp-content/uploads/2019/01/nunutzikie-1024x683.jpg 1024w, /wp-content/uploads/2019/01/nunutzikie-300x200.jpg 300w, /wp-content/uploads/2019/01/nunutzikie-768x512.jpg 768w, /wp-content/uploads/2019/01/nunutzikie-770x513.jpg 770w, /wp-content/uploads/2019/01/nunutzikie-1100x733.jpg 1100w, /wp-content/uploads/2019/01/nunutzikie.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p><img class="alignright size-large wp-image-519" src="/saisc-archived-site/wp-content/uploads/2019/01/nunutzikie-1024x683.jpg" alt="" srcset="/saisc-archived-site/wp-content/uploads/2019/01/nunutzikie-1024x683.jpg 1024w, /saisc-archived-site/wp-content/uploads/2019/01/nunutzikie-300x200.jpg 300w, /saisc-archived-site/wp-content/uploads/2019/01/nunutzikie-768x512.jpg 768w, /saisc-archived-site/wp-content/uploads/2019/01/nunutzikie-770x513.jpg 770w, /saisc-archived-site/wp-content/uploads/2019/01/nunutzikie-1100x733.jpg 1100w, /saisc-archived-site/wp-content/uploads/2019/01/nunutzikie.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
 <h4>5. Nunutzi Kie</h4>
 <p><strong>¿Qué es?</strong><br />
 En este centro de atención múltiple, se atiende a alumnos con necesidades educativas especiales y cuenta con un proyecto de diseño, elaboración e implementación de software para niños con discapacidad motora.</p>
@@ -262,7 +262,7 @@ En este centro de atención múltiple, se atiende a alumnos con necesidades educ
 Luis Ernesto Aguirre<br />
 luiscori12@hotmail.com<br />
 (33) 1417 &#8211; 7573</p>
-<p><img class="alignright size-large wp-image-516" src="/wp-content/uploads/2019/01/dipta-1024x576.jpg" alt="" srcset="/wp-content/uploads/2019/01/dipta-1024x576.jpg 1024w, /wp-content/uploads/2019/01/dipta-300x169.jpg 300w, /wp-content/uploads/2019/01/dipta-768x432.jpg 768w, /wp-content/uploads/2019/01/dipta-770x433.jpg 770w, /wp-content/uploads/2019/01/dipta-1100x619.jpg 1100w, /wp-content/uploads/2019/01/dipta.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p><img class="alignright size-large wp-image-516" src="/saisc-archived-site/wp-content/uploads/2019/01/dipta-1024x576.jpg" alt="" srcset="/saisc-archived-site/wp-content/uploads/2019/01/dipta-1024x576.jpg 1024w, /saisc-archived-site/wp-content/uploads/2019/01/dipta-300x169.jpg 300w, /saisc-archived-site/wp-content/uploads/2019/01/dipta-768x432.jpg 768w, /saisc-archived-site/wp-content/uploads/2019/01/dipta-770x433.jpg 770w, /saisc-archived-site/wp-content/uploads/2019/01/dipta-1100x619.jpg 1100w, /saisc-archived-site/wp-content/uploads/2019/01/dipta.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
 <h4>5. Dipta Kids</h4>
 <p><strong>¿Qué es?</strong><br />
 Esta es una convocatoria promovida por el gobierno del estado de Jalisco, que busca promover el uso de la tecnología en el aula para que los alumnos construyan conocimiento de manera colaborativa en entornos virtuales y expresen su creatividad.</p>
@@ -271,7 +271,7 @@ Esta es una convocatoria promovida por el gobierno del estado de Jalisco, que bu
 3030 &#8211; 6800 ext. 56816</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/servicio-social-tecnologia/feed/</wfw:commentRss>
+					<wfw:commentRss>/saisc-archived-site/servicio-social-tecnologia/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

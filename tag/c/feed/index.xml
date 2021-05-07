@@ -9,8 +9,8 @@
 
 <channel>
 	<title>C &#8211; SAISC 2019</title>
-	<atom:link href="/tag/c/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/saisc-archived-site/tag/c/feed/" rel="self" type="application/rss+xml" />
+	<link>/saisc-archived-site/</link>
 	<description>Sociedad de Alumnos de ISC - TEC Campus GDL</description>
 	<lastBuildDate>Sat, 09 May 2020 06:50:52 +0000</lastBuildDate>
 	<language>es-MX</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.4.5</generator>
 	<item>
 		<title>Software Developer en Intel</title>
-		<link>/software-developer-en-intel/</link>
+		<link>/saisc-archived-site/software-developer-en-intel/</link>
 		
 		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
 		<pubDate>Tue, 03 Mar 2020 06:49:55 +0000</pubDate>
@@ -31,10 +31,10 @@
 		<category><![CDATA[Internship]]></category>
 		<category><![CDATA[Pytnon]]></category>
 		<category><![CDATA[Validación]]></category>
-		<guid isPermaLink="false">/?p=785</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=785</guid>
 
 					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[<p><img class="alignright size-large wp-image-786" src="/wp-content/uploads/2020/05/MX-ValidationSocialMedia-1-02-1024x536.jpg" alt="" srcset="/wp-content/uploads/2020/05/MX-ValidationSocialMedia-1-02-1024x536.jpg 1024w, /wp-content/uploads/2020/05/MX-ValidationSocialMedia-1-02-300x157.jpg 300w, /wp-content/uploads/2020/05/MX-ValidationSocialMedia-1-02-768x402.jpg 768w, /wp-content/uploads/2020/05/MX-ValidationSocialMedia-1-02-770x403.jpg 770w, /wp-content/uploads/2020/05/MX-ValidationSocialMedia-1-02-1100x576.jpg 1100w, /wp-content/uploads/2020/05/MX-ValidationSocialMedia-1-02.jpg 1201w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+										<content:encoded><![CDATA[<p><img class="alignright size-large wp-image-786" src="/saisc-archived-site/wp-content/uploads/2020/05/MX-ValidationSocialMedia-1-02-1024x536.jpg" alt="" srcset="/saisc-archived-site/wp-content/uploads/2020/05/MX-ValidationSocialMedia-1-02-1024x536.jpg 1024w, /saisc-archived-site/wp-content/uploads/2020/05/MX-ValidationSocialMedia-1-02-300x157.jpg 300w, /saisc-archived-site/wp-content/uploads/2020/05/MX-ValidationSocialMedia-1-02-768x402.jpg 768w, /saisc-archived-site/wp-content/uploads/2020/05/MX-ValidationSocialMedia-1-02-770x403.jpg 770w, /saisc-archived-site/wp-content/uploads/2020/05/MX-ValidationSocialMedia-1-02-1100x576.jpg 1100w, /saisc-archived-site/wp-content/uploads/2020/05/MX-ValidationSocialMedia-1-02.jpg 1201w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
 ]]></content:encoded>
 					
 		

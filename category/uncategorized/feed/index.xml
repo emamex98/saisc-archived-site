@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; SAISC 2019</title>
-	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/saisc-archived-site/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/saisc-archived-site/</link>
 	<description>Sociedad de Alumnos de ISC - TEC Campus GDL</description>
 	<lastBuildDate>Mon, 03 Jun 2019 21:35:22 +0000</lastBuildDate>
 	<language>es-MX</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.4.5</generator>
 	<item>
 		<title>Empleos</title>
-		<link>/category/empleos/</link>
+		<link>/saisc-archived-site/category/empleos/</link>
 		
 		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
 		<pubDate>Mon, 03 Jun 2019 21:35:22 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=720</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=720</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

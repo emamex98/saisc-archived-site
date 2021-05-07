@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Avisos &#8211; SAISC 2019</title>
-	<atom:link href="/category/avisos/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/saisc-archived-site/category/avisos/feed/" rel="self" type="application/rss+xml" />
+	<link>/saisc-archived-site/</link>
 	<description>Sociedad de Alumnos de ISC - TEC Campus GDL</description>
 	<lastBuildDate>Wed, 23 Oct 2019 14:17:14 +0000</lastBuildDate>
 	<language>es-MX</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.4.5</generator>
 	<item>
 		<title>Dogos Ilimitados + Videojuegos = Get Together!</title>
-		<link>/evento/get-together/</link>
+		<link>/saisc-archived-site/evento/get-together/</link>
 		
 		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
 		<pubDate>Wed, 23 Oct 2019 14:16:20 +0000</pubDate>
 				<category><![CDATA[Avisos]]></category>
-		<guid isPermaLink="false">/?p=766</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=766</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -41,7 +41,7 @@
 		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
 		<pubDate>Sat, 27 Apr 2019 01:25:58 +0000</pubDate>
 				<category><![CDATA[Avisos]]></category>
-		<guid isPermaLink="false">/?p=698</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=698</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -57,7 +57,7 @@
 		<pubDate>Wed, 27 Mar 2019 18:41:50 +0000</pubDate>
 				<category><![CDATA[Avisos]]></category>
 		<category><![CDATA[Noticias]]></category>
-		<guid isPermaLink="false">/?p=628</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=628</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -67,13 +67,13 @@
 			</item>
 		<item>
 		<title>¡Participa en nuestra semana #HourOfCode!</title>
-		<link>/hourofcode/</link>
+		<link>/saisc-archived-site/hourofcode/</link>
 		
 		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
 		<pubDate>Fri, 22 Feb 2019 18:09:43 +0000</pubDate>
 				<category><![CDATA[Avisos]]></category>
 		<category><![CDATA[Noticias]]></category>
-		<guid isPermaLink="false">/?p=616</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=616</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -83,38 +83,38 @@
 			</item>
 		<item>
 		<title>Asiste al Get Together ISC</title>
-		<link>/evento/comida-de-integracion/</link>
-					<comments>/evento/comida-de-integracion/#respond</comments>
+		<link>/saisc-archived-site/evento/comida-de-integracion/</link>
+					<comments>/saisc-archived-site/evento/comida-de-integracion/#respond</comments>
 		
 		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
 		<pubDate>Mon, 28 Jan 2019 18:41:38 +0000</pubDate>
 				<category><![CDATA[Avisos]]></category>
 		<category><![CDATA[Noticias]]></category>
-		<guid isPermaLink="false">/?p=554</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=554</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/evento/comida-de-integracion/feed/</wfw:commentRss>
+					<wfw:commentRss>/saisc-archived-site/evento/comida-de-integracion/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>¡Feliz Año 2019!</title>
-		<link>/feliz-ano-2019/</link>
-					<comments>/feliz-ano-2019/#respond</comments>
+		<link>/saisc-archived-site/feliz-ano-2019/</link>
+					<comments>/saisc-archived-site/feliz-ano-2019/#respond</comments>
 		
 		<dc:creator><![CDATA[Emanuel Estrada]]></dc:creator>
 		<pubDate>Tue, 01 Jan 2019 12:00:32 +0000</pubDate>
 				<category><![CDATA[Avisos]]></category>
-		<guid isPermaLink="false">/?p=429</guid>
+		<guid isPermaLink="false">/saisc-archived-site/?p=429</guid>
 
 					<description><![CDATA[Este año, nos comprometemos con traer el cambio y hacer la experiencia de formar parte de la comunidad ISC del TEC Campus GDL una inigualable. ¡Les deseamos un 2019 lleno de felicidad y éxito!]]></description>
 										<content:encoded><![CDATA[<p>Este año, nos comprometemos con traer el cambio y hacer la experiencia de formar parte de la comunidad ISC del TEC Campus GDL una inigualable. ¡Les deseamos un 2019 lleno de felicidad y éxito!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/feliz-ano-2019/feed/</wfw:commentRss>
+					<wfw:commentRss>/saisc-archived-site/feliz-ano-2019/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
